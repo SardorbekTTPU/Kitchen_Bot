@@ -1,0 +1,5 @@
+aiogram~=2.14
+environs~=8.0.0
+PyMySQL~=0.9.3
+aiomysql~=0.0.22
+geopy~=2.2.0
